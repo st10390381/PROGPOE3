@@ -94,7 +94,7 @@ Running the Application
     <li>The main window of the application will open, allowing you to start adding recipes.</li>
 </ol>
 GitHub Repository
-<a href="https://github.com/yourusername/recipe-application">GitHub Repository Link</a>
+<a href="https://github.com/st10390381/PROGPOE3/tree/master">GitHub Repository Link</a>
 
 Changes Based on Feedback
 <p>Based on feedback from my lecturer, I have made the following changes:</p>
